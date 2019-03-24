@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "env": {
+    "jest": true,
+    "node": true
+  },
+  "rules": {
+    "no-console": 0,
+    "global-require": 0
+  }
+}
